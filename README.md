@@ -1,6 +1,6 @@
 # Twitter Coronavirus MapReduce (2020)
 
-MapReduce-style analysis of geotagged tweets from 2020. Produces hashtag frequencies by **language** and **country** and generates required plots.
+MapReduce-style analysis of geotagged tweets from 2020. Produces hashtag frequencies by **language** and **country** and generates required plots. Note that the first two plots are not absolute counts, but rather percenatage of tweets in that language or country that contain #coronavirus. 
 
 ## Required figures (PNG)
 
